@@ -3,7 +3,7 @@
 
 
 def minOperations(n):
-    """Calculates the least number of operations to result in exactly n H characters"""
+    """Calculates the least number of operations to result in n H characters"""
     min_operation = 0
     factor = 2
 
